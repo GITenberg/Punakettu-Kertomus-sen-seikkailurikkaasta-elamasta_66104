@@ -1,5 +1,5 @@
 _repo: Punakettu-Kertomus-sen-seikkailurikkaasta-elamasta_66104
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Red Fox. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '43866'
     url: http://www.gutenberg.org/2009/agents/43866
     wikipedia: https://fi.wikipedia.org/wiki/Lyyli_Vihervaara
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roberts, Charles G. D., Sir
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: https://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66104#Punakettu-Kertomus-sen-seikkailurikkaasta-elamasta
 gutenberg_issued: '2021-08-22'
 identifiers:
   gutenberg: '66104'
