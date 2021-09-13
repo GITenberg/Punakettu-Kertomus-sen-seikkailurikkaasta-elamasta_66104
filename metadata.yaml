@@ -1,0 +1,37 @@
+_repo: Punakettu-Kertomus-sen-seikkailurikkaasta-elamasta_66104
+_version: 0.0.1
+alternative_title: Red Fox. Finnish
+contributor:
+  translator:
+    agent_name: Vihervaara, Lyyli
+    birthdate: 1888
+    deathdate: 1958
+    gutenberg_agent_id: '43866'
+    url: http://www.gutenberg.org/2009/agents/43866
+    wikipedia: https://fi.wikipedia.org/wiki/Lyyli_Vihervaara
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Sir Charles George Douglas
+    - Roberts, Sir Charles G. D.
+    - Roberts, Charles George Douglas, Sir
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: https://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2021-08-22'
+identifiers:
+  gutenberg: '66104'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Red fox -- Anecdotes'
+- GITenberg
+title: 'Punakettu: Kertomus sen seikkailurikkaasta elämästä'
+url: http://www.gutenberg.org/ebooks/66104
